@@ -1,0 +1,26 @@
+.about-container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container {
+  margin: 0 0 0 50px;
+}
+
+.image-style {
+  width: 300px;
+  height: 300px;
+}
+
+.about-text {
+  text-align: justify;
+  width: 500px;
+  margin-left: 75px;
+  border-radius: 15px;
+  padding: 20px;
+  line-height: 1.5;
+}
